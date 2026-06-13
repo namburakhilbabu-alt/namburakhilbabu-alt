@@ -9,7 +9,7 @@ Here’s your **exact-style premium GitHub README** based on your resume, fully 
 <br/>
 
 ![Degree](https://img.shields.io/badge/B.Tech-CSE-6a11cb?style=for-the-badge)
-![AI Engineer](https://img.shields.io/badge/Role-AI%20Engineer-2575fc?style=for-the-badge)
+![Associate System Engineer](https://img.shields.io/badge/Role-AI%20Engineer-2575fc?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Bangalore-India-7A5CFF?style=for-the-badge)
 
 <br/>
