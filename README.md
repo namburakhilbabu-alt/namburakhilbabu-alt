@@ -1,4 +1,3 @@
-Here’s your **exact-style premium GitHub README** based on your resume, fully aligned with the structure you demanded:
 
 # <div align="center">
 
